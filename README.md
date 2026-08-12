@@ -22,8 +22,8 @@ Our community operates using a strictly managed, role-secure digital environment
 
 ## 👑 Leadership & Administration
 KXA Customs is strictly governed by its official core executive team:
-*   **Founder**
-*   **Co-Founder** (muhammedsam777)
+*   **Founder** (SUNDHARAN)
+*   **Co-Founder** (CRISTIANO_07)
 *   **Lead Developers & Head Droppers**
 
 ---
