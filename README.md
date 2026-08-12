@@ -29,7 +29,7 @@ KXA Customs is strictly governed by its official core executive team:
 ---
 
 ## 🔗 Official Community Access
-Due to platform security protocols and to safeguard our custom modifications from automated bot raids, our primary Discord invite links are updated dynamically. 
+ https://discord.gg/wNYDREvzc
 
 *   **How to Join:** To obtain a live, non-expiring invite link, please check our active listings on public community hubs like **Top.gg** or **Discord Me**, or request a temporary `discord.gg` access code from verified administrative staff inside affiliated regional SA-MP gaming networks.
 
